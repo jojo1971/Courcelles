@@ -1,0 +1,11 @@
+Dans quelle tâches quotidienne ou mensuelles l'utilisation de l'informatique peut-elle être avantageuse pour un entreprneur du paysage et de quelle manière ?
+
+- Devis, comptabilité, salaire -> tableur
+- Pub -> internet, réalisation d'affiche
+- Communication -> boite mail, envoi de courrier par publipostage
+- organisation du travail -> planning -> Ganttproject, gestion des ouviers, répartition des équipe sur le chantier
+- recherche d'info sur le matériel ou l'équipement -> internet
+- Réalisation de plan de conception, de planter -> Sketchup
+- Gestion des stocks -> inventaire des dépots, entretien des machines, commandes
+- Rédaction de contrats, de lettres -> traitement de texte
+- Stockage des données clients, suivi commercial des clients

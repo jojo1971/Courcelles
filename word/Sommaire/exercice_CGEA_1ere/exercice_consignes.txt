@@ -1,0 +1,3 @@
+A partir du document "Consignes rapport 2016", réaliser un sommaire en 
+vous appuyant sur le titre des parties respectant une hiérarchie d'au moins
+trois niveaux.

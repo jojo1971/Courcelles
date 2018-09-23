@@ -1,0 +1,52 @@
+Qu'est-ce qu'un navigateur ?
+- citer deux noms de navigateur
+
+Qu'est qu'un moteur de recherche ?
+- cite deux noms de moteur de recherche
+
+Comment ajouter un onglet ?
+- Epingler deux onglets
+
+Qu'est-ce qu'un marque page ?
+- Créer un marque page sur un site lié à votre spécialité
+- Créer un autre marque page mais le placer dans la barre personnelle
+- Créer un dossier pour stocker les marques page 
+- Supprimer un marque page
+
+Comment raffraichir une page (deux façons)?
+
+Comment rechecher un mot dans une page web ?
+- A partir de l'url suivante, rechercher le mot "alimentation" : http://www.eplea.metz.educagri.fr/
+
+Comment accéder aux paramètres du navigateur ?
+
+Comment définir la page de démarrage du navigateur ?
+- Définir "www.google.fr" comme page de démarrage
+
+Qu'est-ce qu'une fenêtre Popup ?
+
+Comment se débarrasser des Popup ?
+- Citer le module qui le permet
+
+Qu'est qu'un module complémentaire ?
+- Installer un module pour pouvoir sauvegarder en PDF : 
+	
+
+Que sont les cookies ?
+- Effacer le cookies
+
+Qu'est-ce que l'historique de navigation ?
+- Effacer l'historique de navigation
+
+Qu'est-ce qu'une navigation privée ?
+- Démarrer une navigation privée
+
+Comment savoir si un site est sécurisé ?
+
+A quoi sert un compte Firefox ?
+
+Qu'est-ce qu'un module complémentaire ?
+- Rechecher Adblock plus
+
+Quel est le langage informatique pour la création de page web ?
+- Trouver sur internet un exemple de script de ce langage

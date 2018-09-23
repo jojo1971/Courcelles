@@ -1,0 +1,7 @@
+Aller sur geoportail.
+Commencer par créer un compte geoportail avec l'adresse ent place.
+Créer un croquis avec les délimitations de chaque parcelle.
+En fonction de l'assolement noter les données suivantes dans l'info-bulle de chaque parcelle :
+- type de culture
+- distance totale de haie puis dans le détail :
+- distances de Ripisylve, lisiere de forêt, haies existante

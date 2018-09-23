@@ -1,0 +1,9 @@
+recherche de mots
+correcteur ortho
+remplacement de mots
+recherche de pharse
+index
+renvoi image
+note en bas de page
+enregistrement pdf
+En excel : "graphique en fonction du type de variable étudiée (qualitative, quantitative discrète, quantitative continue)"

@@ -1,0 +1,9 @@
+
+FENDT
+JOHN DEERE
+NEW HOLLAND
+A partir de ces trois marques de tracteur, construire un tableau Excel montrant l'évolution du prix de chacun d'eux sur le premier semestre 2017.
+Une évolution fictive (à faire apparaître dans le tableau), mensuelle qui sera de 3% pour la première, 2,45% pour la deuxième et 4% pour la troisième.
+Le résultat doit être sans décimale et avec séparateur de miliers.
+Pour chaque mois, donner le montant total pour une éventuelle vente de trois tracteurs de chaque marque, c'est-à-dire le prix de trois FENDT + le prix de trois JOHN DEERE, + le prix de trois NEW HOLLAND.
+Prévoir un titre, avec une présentation du tableau tenant sur une page. 

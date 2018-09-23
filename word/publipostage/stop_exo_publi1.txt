@@ -1,0 +1,14 @@
+Créer un publipostage pour l'envoi groupé à cinq personnes imaginaires en 
+faisant apparaître sous forme de lettre les éléments suivants : 
+	- Civilité 
+	- Nom 
+	- Prénom
+	- Rue
+	- Code postal
+	- Ville
+	- Date de naissance
+	- Profession
+
+Le corps de la lettre doit commencer par une formule d'appel conditionnelle :
+	Si la civilité est Masculin -> "Cher Monsieur"	
+	Sinon -> "Chère Madame"

@@ -1,0 +1,28 @@
+CLUB POM Informatique – Maison des associations
+Rue Théophile Gauthier – 02100 SAINT QUENTIN »
+Site Web : http://clumpom.free.fr
+LISTE DES EMPLOYÉS
+
+Les titres dans chaque colonne : 
+Nom, Prénom, Bureau, Tél, fax.
+Service : "Ressources humaines" jusqu'à Paul Sauter, les autre dans "Comptabilité".
+
+
+Martin; Bernard; 110; 03 23 06 45 89; 03 23 06 40 20
+Fauvette; Vanessa; 102; 03 23 06 40 10; 03 23 06 40 20
+Plaquet; Ätrick; 103; 03 23 06 40 44; 03 23 06 40 20
+Godin; Laurent; 105; 03 23 64 96 85; 03 23 67 90 85
+Trocmet; Daniel; 108; 03 23 64 96 88; 03 23 67 90 52
+Foucart; René; 112; 03 23 97 86 52; 03 23 67 90 85
+Hiton; Jacques; 102; 03 23 06 97 86; 03 23 67 90 85
+Lorette; Mireille; 110; 03 23 06 40 25; 03 23 67 90 85
+Vadim; Paul; 108; 03 23 06 47 12; 03 23 06 40 20
+Sautet; Paul; 106; 03 23 06 55 41; 03 23 06 40 20
+Alvarez; Patrick; 208; 03 23 07 57 95; 03 23 64 90 87
+Bompem; Philippe; 207; 03 23 07 64 85;03 23 64 90 87
+Couty; Nadine; 204; 03 23 07 55 85; 03 23 64 90 87
+Boutin; Marie; 201; 03 23 07 51 85; 03 23 64 90 87
+Merlin; Dominique; 203; 03 23 07 64 63; 03 23 64 90 87
+Momaire; Zoé; 209; 03 23 08 99 02; 03 23 64 90 87
+Verrin; Fabienne; 202; 03 23 09 55 21; 03 23 64 90 87
+Sabot; Manuel; 206; 03 23 57 87 55; 03 23 64 90 87

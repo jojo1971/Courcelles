@@ -1,0 +1,3 @@
+A partir du document texte_long :
+1 - numéroter les pages hormis la page de garde (première page)
+2 - Commencer la numérotation à partir de la quatrième page

@@ -1,0 +1,13 @@
+Somme et opérations
+MIN et MAX
+Moyenne
+NB
+NB.SI
+NB.VIDE
+NBVAL
+rechercheV
+SI et SI imbriqué
+Les graphiques
+ENT
+SOMME.si
+Les filtres
